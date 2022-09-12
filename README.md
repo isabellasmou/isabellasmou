@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://beacons.ai/isabellasmou">
-  <img height="180cm" widht="60em" src="https://github-readme-stats.vercel.app/api?username=isabellasmou&show_icons=true&theme=dracula"/>
-  <img height="180cm" widht="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellasmou&layout=compact&theme=dracula"/>
+  <img height="180em" widht="60em" src="https://github-readme-stats.vercel.app/api?username=isabellasmou&show_icons=true&theme=dracula"/>
+  <img height="180em" widht="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellasmou&layout=compact&theme=dracula"/>
 </div>
 
 ## Conhecimentos
