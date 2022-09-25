@@ -1,10 +1,10 @@
 ### Olá, eu sou a Isabella Moura! 💖
 
-- 📚 Sou estudante de Sistemas de Informação, estou no segundo período atualmente
-- ✨ Ultimamente estou focada em estudar análise de dados com Python
+- 📚 Sou estudante de Sistemas de Informação
+- ✨ Ultimamente estou focada em estudar análise de dados com Python, Machine Learning e IA
 - 💻 Tenho conhecimento intermediário em desenvolvimento Web
-- 🎮 Sinto vontade de estudar programação em jogos e IA posteriormente
-- 🚀 Acredito que um dia irei mudar a vida das pessoas com a nova tecnologia
+- 🎮 Sinto vontade de estudar programação em jogos posteriormente
+- 🚀 Acredito que um dia irei mudar a vida das pessoas com a evolução da tecnologia
 - 🙂 Pronouns: ela/dela
 
 <div>
@@ -16,11 +16,11 @@
 ## Conhecimentos
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="bella-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" alt="bella-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img align="center" alt="bella-RAILS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
+    <img align="center" alt="bella-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="bella-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="bella-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="bella-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="bella-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
 
 ## Contatos
