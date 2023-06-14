@@ -1,9 +1,8 @@
 ### Olá, eu sou a Isabella Moura! 💖
 
-- 📚 Sou estudante de Sistemas de Informação
-- ✨ Ultimamente estou focada em estudar análise de dados com Python, Machine Learning e IA
+- 📚 Sou estudante de Sistemas de Informação (3 período)
+- ✨ Ultimamente estou focada em estudar análise de dados com Python, Análise de Dados e IA
 - 💻 Tenho conhecimento intermediário em desenvolvimento Web
-- 🎮 Sinto vontade de estudar programação em jogos posteriormente
 - 🚀 Acredito que um dia irei mudar a vida das pessoas com a evolução da tecnologia
 - 🙂 Pronouns: ela/dela
 
@@ -16,11 +15,11 @@
 ## Conhecimentos
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="bella-RAILS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
-    <img align="center" alt="bella-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="bella-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="bella-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="bella-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="bella-pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+    <img align="center" alt="bella-SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+    <img align="center" alt="bella-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" alt="bella-mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 ## Contatos
