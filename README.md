@@ -1,7 +1,7 @@
 ### Olá, eu sou a Isabella Moura! 💖
 
 - 📚 Sou estudante de Sistemas de Informação (3 período)
-- ✨ Ultimamente estou focada em estudar análise de dados com Python, Análise de Dados e IA
+- ✨ Meu foco de estudo é Análise de Dados com Python, PowerBI e IA
 - 💻 Tenho conhecimento intermediário em desenvolvimento Web
 - 🚀 Acredito que um dia irei mudar a vida das pessoas com a evolução da tecnologia
 - 🙂 Pronouns: ela/dela
