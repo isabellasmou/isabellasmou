@@ -1,6 +1,6 @@
 ### Olá, eu sou a Isabella Moura! 💖
 
-- 📚 Sou estudante de Sistemas de Informação (4 período)
+- 📚 Sou estudante de Sistemas de Informação (5 período)
 - ✨ Meu foco de estudo é Análise de Dados com Python, PowerBI e IA
 - 💻 Tenho conhecimento intermediário em desenvolvimento Web
 - 🚀 Acredito que um dia irei mudar a vida das pessoas com a evolução da tecnologia
